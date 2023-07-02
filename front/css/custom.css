@@ -1,0 +1,60 @@
+.carousel {
+  width: 100%;
+  margin: 0 auto;
+  position: relative;
+}
+.carousel img {
+  width: 100%;
+  height: 225px;
+  border-radius: 2%;
+}
+.slick-slide {
+  margin: 0 2px;
+}
+.slick-prev,
+.slick-next {
+  font-size: 0;
+  line-height: 0;
+  position: absolute;
+  top: 50%;
+  display: block;
+  width: 40px;
+  height: 40px;
+  padding: 0;
+  -webkit-transform: translate(0, -50%);
+  -ms-transform: translate(0, -50%);
+  transform: translate(0, -50%);
+  cursor: pointer;
+  color: transparent;
+  border: none;
+  outline: none;
+  background: none;
+  z-index: 1;
+}
+.slick-prev:before,
+.slick-next:before {
+  font-family: "slick";
+  font-size: 40px;
+  line-height: 1;
+  opacity: 0.75;
+  color: #4658ff;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.slick-prev {
+  left: 0;
+}
+.slick-next {
+  right: 0;
+}
+.slick-prev:before {
+  content: "←";
+}
+.slick-next:before {
+  content: "→";
+}
+@media (max-width: 768px) {
+  .carousel {
+    width: 100%;
+  }
+}
