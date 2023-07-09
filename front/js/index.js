@@ -91,6 +91,66 @@ $(document).ready(function () {
             descricao   : 'Avanca06',
             titulo      : 'Avanca Mais'
         },
+        {
+            name        : 'Biblioteca_01.png',
+            descricao   : 'Institucional Projeto Biblioteca',
+            titulo      : 'Projeto Biblioteca'
+        },
+        {
+            name        : 'Biblioteca_02.png',
+            descricao   : 'Institucional Projeto Biblioteca',
+            titulo      : 'Projeto Biblioteca'
+        },
+        {
+            name        : 'Biblioteca_03.png',
+            descricao   : 'Institucional Projeto Biblioteca',
+            titulo      : 'Projeto Biblioteca'
+        },
+        {
+            name        : 'Biblioteca_04.png',
+            descricao   : 'Institucional Projeto Biblioteca',
+            titulo      : 'Projeto Biblioteca'
+        },
+        {
+            name        : 'Biblioteca_05.png',
+            descricao   : 'Institucional Projeto Biblioteca',
+            titulo      : 'Projeto Biblioteca'
+        },
+        {
+            name        : 'Biblioteca_06.png',
+            descricao   : 'Institucional Projeto Biblioteca',
+            titulo      : 'Projeto Biblioteca'
+        },
+        {
+            name        : 'Habitos_diarios_01.png',
+            descricao   : 'Habitos Diários',
+            titulo      : 'Sistema Habitos Diários'
+        },
+        {
+            name        : 'Habitos_diarios_02.png',
+            descricao   : 'Habitos Diários',
+            titulo      : 'Sistema Habitos Diários'
+        },
+        {
+            name        : 'Habitos_diarios_03.png',
+            descricao   : 'Habitos Diários',
+            titulo      : 'Sistema Habitos Diários'
+        },
+        {
+            name        : 'Tabela_01.png',
+            descricao   : 'Tabela customizavel criada manualmente com JavaScript e JQuery',
+            titulo      : 'Tabela Personalizavel'
+        },
+        {
+            name        : 'Tabela_02.png',
+            descricao   : 'Tabela customizavel criada manualmente com JavaScript e JQuery',
+            titulo      : 'Tabela Personalizavel'
+        },
+        {
+            name        : 'Tabela_03.png',
+            descricao   : 'Tabela customizavel criada manualmente com JavaScript e JQuery',
+            titulo      : 'Tabela Personalizavel'
+        },
     ];
 
     function createModal(imagem, i, imagesElement) {
