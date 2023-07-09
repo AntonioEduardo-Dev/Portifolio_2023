@@ -3,92 +3,92 @@ $(document).ready(function () {
     const imagens = [
         {
             name        : 'TytoinKids_01.png',
-            descricao   : 'TytoinKids_01',
+            descricao   : 'Sistema Tytoin Kids, desenvolvido com PHP e JavaScript',
             titulo      : 'Tytoin Kids'
         },
         {
             name        : 'TytoinKids_04.png',
-            descricao   : 'TytoinKids_04',
+            descricao   : 'Sistema Tytoin Kids, desenvolvido com PHP e JavaScript',
             titulo      : 'Tytoin Kids'
         },
         {
             name        : 'TytoinKids_05.png',
-            descricao   : 'TytoinKids_05',
+            descricao   : 'Sistema Tytoin Kids, desenvolvido com PHP e JavaScript',
             titulo      : 'Tytoin Kids'
         },
         {
             name        : 'simulador_erros_equipe_02.png',
-            descricao   : 'simulador_erros_equipe_02',
+            descricao   : 'Simulador de erros que acontecem no computador e SO',
             titulo      : 'Simulador de erros'
         },
         {
             name        : 'simulador_erros_equipe_03.png',
-            descricao   : 'simulador_erros_equipe_03',
+            descricao   : 'Simulador de erros que acontecem no computador e SO',
             titulo      : 'Simulador de erros'
         },
         {
             name        : 'simulador_erros_equipe_04.png',
-            descricao   : 'simulador_erros_equipe_04',
+            descricao   : 'Simulador de erros que acontecem no computador e SO',
             titulo      : 'Simulador de erros'
         },
         {
             name        : 'MegaSucata_01.png',
-            descricao   : 'MegaSucata_01',
+            descricao   : 'Sistema de vitrine de sucatas',
             titulo      : 'Mega Sucata'
         },
         {
             name        : 'MegaSucata_02.png',
-            descricao   : 'MegaSucata_02',
+            descricao   : 'Sistema de vitrine de sucatas',
             titulo      : 'Mega Sucata'
         },
         {
             name        : 'MegaSucata_03.png',
-            descricao   : 'MegaSucata_03',
+            descricao   : 'Sistema de vitrine de sucatas',
             titulo      : 'Mega Sucata'
         },
         {
             name        : 'DWR_01.png',
-            descricao   : 'DWR_01',
+            descricao   : 'Sistema de Pedidos de Insumos Farmaceuticos',
             titulo      : 'Insumos farmaceuticos'
         },
         {
             name        : 'DWR_04.png',
-            descricao   : 'DWR_04',
+            descricao   : 'Sistema de Pedidos de Insumos Farmaceuticos',
             titulo      : 'Insumos farmaceuticos'
         },
         {
             name        : 'DWR_05.png',
-            descricao   : 'DWR_05',
+            descricao   : 'Sistema de Pedidos de Insumos Farmaceuticos',
             titulo      : 'Insumos farmaceuticos'
         },
         {
             name        : 'Avanca01.png',
-            descricao   : 'Avanca01',
+            descricao   : 'Sistema de gerenciamento de clientes e escolas',
             titulo      : 'Avanca Mais'
         },
         {
             name        : 'Avanca02.png',
-            descricao   : 'Avanca02',
+            descricao   : 'Sistema de gerenciamento de clientes e escolas',
             titulo      : 'Avanca Mais'
         },
         {
             name        : 'Avanca03.png',
-            descricao   : 'Avanca03',
+            descricao   : 'Sistema de gerenciamento de clientes e escolas',
             titulo      : 'Avanca Mais'
         },
         {
             name        : 'Avanca04.png',
-            descricao   : 'Avanca04',
+            descricao   : 'Sistema de gerenciamento de clientes e escolas',
             titulo      : 'Avanca Mais'
         },
         {
             name        : 'Avanca05.png',
-            descricao   : 'Avanca05',
+            descricao   : 'Sistema de gerenciamento de clientes e escolas',
             titulo      : 'Avanca Mais'
         },
         {
             name        : 'Avanca06.png',
-            descricao   : 'Avanca06',
+            descricao   : 'Sistema de gerenciamento de clientes e escolas',
             titulo      : 'Avanca Mais'
         },
         {
@@ -150,6 +150,21 @@ $(document).ready(function () {
             name        : 'Tabela_03.png',
             descricao   : 'Tabela customizavel criada manualmente com JavaScript e JQuery',
             titulo      : 'Tabela Personalizavel'
+        },
+        {
+            name        : 'simulador_erros_windows_01.png',
+            descricao   : 'Institucional do simulador de erro do windows',
+            titulo      : 'Simulador de Erros do Windows'
+        },
+        {
+            name        : 'simulador_erros_windows_02.png',
+            descricao   : 'Institucional do simulador de erro do windows',
+            titulo      : 'Simulador de Erros do Windows'
+        },
+        {
+            name        : 'simulador_erros_windows_03.png',
+            descricao   : 'Institucional do simulador de erro do windows',
+            titulo      : 'Simulador de Erros do Windows'
         },
     ];
 
